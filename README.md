@@ -24,6 +24,16 @@ While not industry-ready, this research-driven project is designed to explore in
 
 ---
 
+📂 Project Files and Their Roles
+
+Filename	Description
+ADF_Project.ipynb	Main notebook containing the machine learning pipeline and model evaluation
+LLM_Part.ipynb	Notebook for LLM-based forensic log analysis using FLAN-T5 and Gradio
+adf_fp.csv	The synthetic forensic dataset used for training and evaluation
+README.md	Project overview, methodology, setup guide, and tool documentation
+
+---
+
 ## 🛠 Tools Used
 ### Forensics / Anti-Forensics
 - FTK Imager
