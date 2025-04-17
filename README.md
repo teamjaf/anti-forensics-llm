@@ -1,4 +1,4 @@
-# 🧠 Unmasking Digital Deception: From Simulated Anti-Forensic Footprints to Large Language Model-Augmented Detection Frameworks
+# 🧠 Unmasking Digital Forensics: From Simulated Anti-Forensic Footprints to Large Language Model-Augmented Detection Frameworks
 
 This public repository serves as the open-source foundation for the final project of the **Advanced Digital Forensics** course, supervised by **Prof. Gustavo Chaparro Baquero** at Florida International University. 
 
