@@ -24,7 +24,7 @@ While not industry-ready, this research-driven project is designed to explore in
 
 ---
 
-## 📂 Project Files and Their Roles
+## 📂 Important Project Files and Their Roles
 
 | Filename          | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
